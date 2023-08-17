@@ -6,19 +6,25 @@
   flex-direction: column;
   text-align: center;
   align-items: center;
-  color: #010101;
-  background-color: white;
+  color: #238caf6a;
+  background-color: rgb(226, 225, 225);
+  font-weight: 600;
 }
 .title {
   padding: 20px;
+  color: rgb(62, 151, 169);
+  font-weight: 600;
 }
 .stat-list {
   display: flex;
   width: 100%;
+  color: #238caf6a;
+  font-weight: 600;
 }
 .item {
   display: flex;
   flex-direction: column;
   width: 100%;
   padding: 10px;
+  color: rgb(62, 151, 169);
 }

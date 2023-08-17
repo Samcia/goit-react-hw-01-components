@@ -1,7 +1,7 @@
 .profile {
   height: 100%;
   width: 300px;
-  margin: 50px auto;
+  margin: 30px auto;
   display: flex;
   flex-direction: column;
   text-align: center;
@@ -17,17 +17,17 @@
 }
 .avatar {
   display: block;
-  width: 120px;
+  width: 150px;
   height: auto;
   background-color: rgb(233, 232, 232);
   border-radius: 50%;
 }
 .name {
   font-size: 20px;
-  font-weight: 700;
+  font-weight: 600;
 }
 .tag {
-  color: #00000052;
+  color: lightblue;
 }
 .location {
   color: #00000052;
@@ -49,5 +49,5 @@
   margin-bottom: 4px;
 }
 .quantity {
-  font-weight: 700;
+  font-weight: 00;
 }

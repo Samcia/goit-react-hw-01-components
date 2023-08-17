@@ -3,7 +3,9 @@
   align-items: center;
   box-shadow: 1px 1px 5px 0px rgba(66, 68, 90, 1);
   padding: 7px 7pc 7px 0;
-  background-color: white;
+  background-color: lightsgray;
+  color: rgb(88, 197, 234);
+  font-weight: 700;
 }
 .friend-list__status {
   width: 15px;
