@@ -5,7 +5,7 @@ import { randomColor } from './randomColor';
 export const Statistics = ({ title, data }) => {
   return (
     <section className="statistics">
-      <h2 className="title">{title}</h2>
+      {title && <h2 className="title">{title}</h2>}
 
       <ul className="stat-list">
         {data.map(e => (
